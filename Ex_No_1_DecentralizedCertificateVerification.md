@@ -1,4 +1,6 @@
-### Experiment 1: Decentralized Certificate Verification
+# NAME: DEEPIKA G
+# REG.NO: 212224040060
+## Experiment 1: Decentralized Certificate Verification
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 ## Algorithm:
@@ -39,5 +41,7 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+<img width="1918" height="1059" alt="image" src="https://github.com/user-attachments/assets/f0979475-51cd-4378-8f56-46b6068419f9" />
 
+# Result:
+Thus, to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity has been done successfully.
